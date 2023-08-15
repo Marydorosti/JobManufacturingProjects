@@ -1,0 +1,6 @@
+flask
+deap
+matplotlib
+seaborn
+openpyxl
+statistics
